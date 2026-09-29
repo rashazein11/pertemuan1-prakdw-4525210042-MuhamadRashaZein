@@ -43,5 +43,6 @@ Proyek ini saya buat untuk menerapkan dasar-dasar HTML, seperti struktur dokumen
 3. Buka `index.html` di browser (Chrome, Firefox, dll.).
 
 ## Hasil Run web
-<img width="1440" height="900" alt="Screenshot 2026-09-29 at 14 28 02" src="https://github.com/user-attachments/assets/cc06bb0a-ed13-4b0a-9496-9945df1383a3" />
+<img width="1431" height="828" alt="Screenshot 2026-09-29 at 14 29 15" src="https://github.com/user-attachments/assets/dd8da5c6-d30c-4332-a575-55f59181ae70" />
+
 
