@@ -41,3 +41,7 @@ Proyek ini saya buat untuk menerapkan dasar-dasar HTML, seperti struktur dokumen
 1. Simpan kode sebagai `index.html`.
 2. Buat folder `img` di direktori yang sama, lalu letakkan file logo dengan nama `imatika.jpg`.
 3. Buka `index.html` di browser (Chrome, Firefox, dll.).
+
+## Hasil Run web
+<img width="1440" height="900" alt="Screenshot 2026-09-29 at 14 28 02" src="https://github.com/user-attachments/assets/cc06bb0a-ed13-4b0a-9496-9945df1383a3" />
+
